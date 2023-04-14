@@ -11,7 +11,7 @@
 * Actualmente estoy usando linux y estoy aprendiendo bastante, tengo ubuntu y pienso ir mas allá con arch para crear mi propio entorno de escritorio
 * **Linux es lo mejor del mundo :), windows :/**
 
-* Fuí toda mi vida a la playa y hace un tiempo conocí la patagonia argentina, sinceramente tiene los mejores paisajes que ví, dejo fotos de algunos los lugares que conocí.
+* Fuí toda mi vida a la playa y hace un tiempo conocí la patagonia argentina, sinceramente tiene los mejores paisajes que ví, dejo fotos de algunos de los lugares que conocí.
 
 ![no se puede cargar la imagen](https://instagram.feze9-1.fna.fbcdn.net/v/t51.2885-15/331558965_1590752314770324_1600202580749614_n.jpg?stp=dst-jpg_e35_p720x720&_nc_ht=instagram.feze9-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=if3kpMk5hSIAX-r7aK6&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=MzA0OTk1OTE1NjE0MDQwMDgzOA%3D%3D.2-ccb7-5&oh=00_AfDuyLh1xKe3FJVzODDKR2XtBiLwTO49uV1htIG6Xnk4QQ&oe=643E5A69&_nc_sid=1527a3"")
 * **Yuco, San Martin de los Andes**
