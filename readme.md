@@ -2,16 +2,16 @@
 
 ![no se puede cargar la imagen](https://instagram.feze9-1.fna.fbcdn.net/v/t51.2885-15/275819432_149731877510829_6329942522838913564_n.webp?stp=dst-jpg_e35_p720x720&_nc_ht=instagram.feze9-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=4MukGSCLJs8AX-6gD_8&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=Mjc5MzM3NTIxMzIxNzM1MzYwMw%3D%3D.2-ccb7-5&oh=00_AfArvebaYCOhry7m9d6rpDvmrmJM2gfohs_HtD9wyWo5bw&oe=643E7EE4&_nc_sid=1527a3 "")
 
-### Estudiante de Ingenieria en Sistemas de Informacion UTN
+### Estudiante de Ingeniería en Sistemas de Información UTN
 ### Legajo: 208452-1
 
-* Me encanta programar aunque soy muy novato, suelo aprender un poco por mi cuenta haciendo algún que otro curso en internet, por el momento aprendi en la universidad lenguaje C en electronica y C++ en sistemas, por mi cuenta aprendi python y kotlin para desarrollo de aplicaciones android.
+* Me encanta programar aunque soy muy novato, suelo aprender un poco por mi cuenta haciendo algún que otro curso en internet, por el momento aprendí en la universidad lenguaje C en electronica y C++ en sistemas, por mi cuenta aprendí python y kotlin para desarrollo de aplicaciones android e hice un curso donde aprendí javascript(curso de desarrollo web).
 * Mi hobbie es ir al gimnasio. 
- * Me gusta mucho el futbol y ver partidos, claramente soy hincha del club campeon el 9/12/18 ;D.
-* Actualmente estoy usando linux y estoy aprendiendo bastante, tengo ubuntu y pienso ir mas alla con arch para crear mi propio entorno de escritorio
+ * Me gusta mucho el futbol, jugar y ver partidos, claramente soy hincha del club campeon el 9/12/18 ;D.
+* Actualmente estoy usando linux y estoy aprendiendo bastante, tengo ubuntu y pienso ir mas allá con arch para crear mi propio entorno de escritorio
 * **Linux es lo mejor del mundo :), windows :/**
 
-* Fui toda mi vida a la playa y hace un tiempo conoci la patagonia argentina, sinceramente tiene los mejores paisajes que vi, dejo fotos de algunos los lugares que conoci.
+* Fuí toda mi vida a la playa y hace un tiempo conocí la patagonia argentina, sinceramente tiene los mejores paisajes que ví, dejo fotos de algunos los lugares que conocí.
 
 ![no se puede cargar la imagen](https://instagram.feze9-1.fna.fbcdn.net/v/t51.2885-15/331558965_1590752314770324_1600202580749614_n.jpg?stp=dst-jpg_e35_p720x720&_nc_ht=instagram.feze9-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=if3kpMk5hSIAX-r7aK6&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=MzA0OTk1OTE1NjE0MDQwMDgzOA%3D%3D.2-ccb7-5&oh=00_AfDuyLh1xKe3FJVzODDKR2XtBiLwTO49uV1htIG6Xnk4QQ&oe=643E5A69&_nc_sid=1527a3"")
 * **Yuco, San Martin de los Andes**
